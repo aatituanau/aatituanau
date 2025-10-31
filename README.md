@@ -42,3 +42,5 @@ Always eager to grow, share knowledge, and build meaningful digital solutions.
   </a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=aatituanau&style=flat-square&color=blue" alt=""/>
+
