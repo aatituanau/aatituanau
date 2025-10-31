@@ -2,7 +2,7 @@
   <img src="https://giphy.com/gifs/script-kiddie-kitty-P8ef3Dkynk0xLx1h1T.gif" width="200"/>
 </div>
 
-<h1>Hi 👋, I'm Alex, a Software Engineering student passionate about web and mobile development. I enjoy learning new technologies, building projects that solve real-world problems, and exploring innovative solutions with tools like FastAPI, Android Studio, and Godot. I’m always eager to improve my skills, share knowledge, and contribute to meaningful projects.</h1>
+<h2>Hi 👋, I'm Alex, a Software Engineering student passionate about web and mobile development. I enjoy learning new technologies, building projects that solve real-world problems, and exploring innovative solutions with tools like FastAPI, Android Studio, and Godot. I’m always eager to improve my skills, share knowledge, and contribute to meaningful projects.</h2>
 <p>A passionate frontend developer from </p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
