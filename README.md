@@ -2,7 +2,7 @@
 
 <h3 align="center">
 💻 Software Engineering student passionate about web and mobile development.<br>
-I love learning new technologies, creating projects that solve real-world problems, and exploring innovative tools like <b>FastAPI</b>, <b>Android Studio</b>, and <b>Godot</b>.<br>
+I love learning new technologies, creating projects that solve real-world problems, and exploring innovative tools like <b>FastAPI</b>, <b>Android Studio</b>.<br>
 Always eager to grow, share knowledge, and build meaningful digital solutions.
 </h3>
 
