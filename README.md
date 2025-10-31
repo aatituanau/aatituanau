@@ -8,7 +8,10 @@ Always eager to grow, share knowledge, and build meaningful digital solutions.
 
 ---
 
-<h2 align="center">🚀 Languages and Tools I Use</h2>
+<h2 align="center">
+🚀 Languages and Tools I Use
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWk3bWk3OXhnMTV6Ymk2dWM3cXhta2IzbHhvMTU5NHg1ZmJ6Z3VmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif" width="80" alt="fun-gif" style="vertical-align: middle; margin-left: 10px;"/>
+</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42"/>
@@ -27,7 +30,6 @@ Always eager to grow, share knowledge, and build meaningful digital solutions.
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 25px; flex-wrap: wrap;">
   <img width="370" src="https://github-readme-stats.vercel.app/api?username=aatituanau&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="GitHub Stats"/>
   <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=aatituanau&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&locale=en" alt="Most Used Languages"/>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWk3bWk3OXhnMTV6Ymk2dWM3cXhta2IzbHhvMTU5NHg1ZmJ6Z3VmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif" width="150" alt="fun-gif"/>
 </div>
 
 ---
