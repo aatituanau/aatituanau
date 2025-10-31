@@ -16,3 +16,14 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aatituanau&layout=compact&langs_count=8&card_width=320" />
 </a>
+## 🐍 My Contributions
+
+<div align="centro">
+  <imagen>
+    <source media="(prefiere esquema de color: oscuro)" srcset="https://raw.githubusercontent.com/{aatituanau}/{aatituanau}/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefiere esquema de color: luz)" srcset="https://raw.githubusercontent.com/{aatituanau}/{aatituanau}/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/{aatituanau}/{aatituanau}/output/github-contribution-grid-snake.svg" />
+  </imagen>
+</div>
+
+<hr>
