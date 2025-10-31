@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/script-kiddie-kitty-P8ef3Dkynk0xLx1h1T.gif" width="200"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWk3bWk3OXhnMTV6Ymk2dWM3cXhta2IzbHhvMTU5NHg1ZmJ6Z3VmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif" width="200"/>
 </div>
 
 <h2>Hi 👋, I'm Alex, a Software Engineering student passionate about web and mobile development. I enjoy learning new technologies, building projects that solve real-world problems, and exploring innovative solutions with tools like FastAPI, Android Studio, and Godot. I’m always eager to improve my skills, share knowledge, and contribute to meaningful projects.</h2>
