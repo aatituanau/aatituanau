@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWk3bWk3OXhnMTV6Ymk2dWM3cXhta2IzbHhvMTU5NHg1ZmJ6Z3VmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif" width="180"/>
-</div>
-
 <h1 align="center">Hi there 👋, I'm <span style="color:#0078ff;">Alex Tituaña</span></h1>
 
 <h3 align="center">
@@ -28,10 +24,10 @@ Always eager to grow, share knowledge, and build meaningful digital solutions.
 
 <h2 align="center">⚡️ GitHub Stats</h2>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 25px; flex-wrap: wrap;">
   <img width="370" src="https://github-readme-stats.vercel.app/api?username=aatituanau&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="GitHub Stats"/>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWk3bWk3OXhnMTV6Ymk2dWM3cXhta2IzbHhvMTU5NHg1ZmJ6Z3VmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif" width="150"/>
   <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=aatituanau&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&locale=en" alt="Most Used Languages"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWk3bWk3OXhnMTV6Ymk2dWM3cXhta2IzbHhvMTU5NHg1ZmJ6Z3VmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif" width="150" alt="fun-gif"/>
 </div>
 
 ---
@@ -43,6 +39,4 @@ Always eager to grow, share knowledge, and build meaningful digital solutions.
     <img src="https://img.shields.io/badge/LinkedIn-%230a77b6.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-
----
 
