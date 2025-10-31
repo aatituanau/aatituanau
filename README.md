@@ -20,7 +20,7 @@ Always eager to grow, share knowledge, and build meaningful digital solutions.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42"/>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWk3bWk3OXhnMTV6Ymk2dWM3cXhta2IzbHhvMTU5NHg1ZmJ6Z3VmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif" width="80" alt="fun-gif" style="vertical-align: middle; margin-left: 20px;"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWk3bWk3OXhnMTV6Ymk2dWM3cXhta2IzbHhvMTU5NHg1ZmJ6Z3VmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif" width="100" alt="fun-gif" style="vertical-align: middle; margin-left: 20px;"/>
 </p>
 
 ---
